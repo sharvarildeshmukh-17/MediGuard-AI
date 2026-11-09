@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "category": "OPD",
+    "question": "What are the OPD timings?",
+    "answer": "The Outpatient Department operates from 9:00 AM to 5:00 PM, Monday to Saturday."
+  },
+  {
+    "id": 2,
+    "category": "Emergency",
+    "question": "Is emergency service available?",
+    "answer": "The hospital emergency department operates 24 hours a day, 7 days a week."
+  },
+  {
+    "id": 3,
+    "category": "Appointments",
+    "question": "How can I book an appointment?",
+    "answer": "You can request an appointment through the hospital reception or the hospital appointment desk."
+  },
+  {
+    "id": 4,
+    "category": "Departments",
+    "question": "Where is the cardiology department?",
+    "answer": "The cardiology department is located on the second floor."
+  },
+  {
+    "id": 5,
+    "category": "Pharmacy",
+    "question": "What are the pharmacy timings?",
+    "answer": "The hospital pharmacy operates from 8:00 AM to 10:00 PM."
+  },
+  {
+    "id": 6,
+    "category": "Visiting Hours",
+    "question": "What are the patient visiting hours?",
+    "answer": "General patient visiting hours are from 4:00 PM to 6:00 PM."
+  },
+  {
+    "id": 7,
+    "category": "Billing",
+    "question": "Where can I pay my hospital bills?",
+    "answer": "You can pay hospital bills at the billing counter near the main reception."
+  },
+  {
+    "id": 8,
+    "category": "Facilities",
+    "question": "Does the hospital have parking?",
+    "answer": "Yes, visitor parking is available near the main entrance."
+  },
+  {
+    "id": 9,
+    "category": "Laboratory",
+    "question": "What are the laboratory timings?",
+    "answer": "The hospital laboratory operates from 7:00 AM to 7:00 PM."
+  },
+  {
+    "id": 10,
+    "category": "Location",
+    "question": "Where is the hospital reception?",
+    "answer": "The main reception is located on the ground floor near the main entrance."
+  },
+  {
+    "id": 11,
+    "category": "Insurance",
+    "question": "Does the hospital accept health insurance?",
+    "answer": "Please contact the insurance desk to verify your insurance provider and policy coverage."
+  },
+  {
+    "id": 12,
+    "category": "Admission",
+    "question": "What documents are needed for admission?",
+    "answer": "Generally, patients may need identification, relevant medical documents and insurance information, if applicable. Confirm the requirements with the admission desk."
+  }
+]
